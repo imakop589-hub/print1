@@ -1,0 +1,6 @@
+{
+  "name": "Printify.pk - Custom Printing Services",
+  "description": "Leading custom printing e-commerce platform in Pakistan for mugs, keychains, pens, t-shirts, and corporate gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
